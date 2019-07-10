@@ -1,4 +1,7 @@
-#Screen
+# Discountinued Not managing anymore
+This was good project but unfortunatily i don't have enough time to manage this anymore.
+
+# Screen
 
 Web site screenshot tool based on PHP and [PhantomJS](http://phantomjs.org/ "")
 You can use it to take screenshots for testing or monitoring service
